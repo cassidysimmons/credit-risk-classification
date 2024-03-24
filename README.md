@@ -1,5 +1,5 @@
 ## credit risk analysis report
-- also located in the VS code file (credit_risk_analysis_report.md)
+- also located in the VS code file (<a href='https://github.com/cassidysimmons/credit-risk-classification/blob/main/credit_risk_analysis_report.md'>credit_risk_analysis_report.md</a>)
 
 ### Overview
 
